@@ -6,7 +6,7 @@ const Navbar = () => {
     <div className='w-full h-[15vh] flex justify-between px-10 bg-gray-500'>
         <div className='logo h-[15vh] flex items-center gap-3 '>
             <img className='w-[5vw] rounded-full' src={logo} alt="" />
-            <h1 className='text-2xl font-black'>THE EVIL XD SONGS</h1>
+            <h1 className='text-2xl font-black'>THE EVILXD SONGS</h1>
         </div>
         <div className='search gap-3 w-[30%] h-[15vh] flex items-center justify-center '>
         <i className="  text-white text-2xl ri-search-2-line"></i>
