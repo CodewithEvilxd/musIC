@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useState } from "react";
 import { Link, Navigate, json, useNavigate } from "react-router-dom";
-import logo from "./../../public/logo3.jpg";
+import logo from "./../../public/logo.jpg";
 import axios from "axios";
 import Loading from "./Loading";
 import Dropdown from "react-dropdown";
