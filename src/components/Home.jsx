@@ -555,7 +555,7 @@ const Home = () => {
           <a
             target="_blank"
             href={
-              "https://github.com/codewithEvilxd/THE-ULTIMATE-SONGS-WEBAPP"
+              "https://github.com/CodewithEvilxd/musIC"
             }
             className="ml-4 sm:ml-2 cursor-pointer  text-3xl  text-zinc-500   ri-github-fill"
           ></a>

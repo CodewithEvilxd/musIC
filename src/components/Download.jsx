@@ -54,7 +54,7 @@ const Download = () => {
         <div className="logo h-[15vh] flex sm:block  items-center gap-3 ">
           <div className="flex items-center sm:justify-center sm:pt-2 gap-3">
           <img className="w-[5vw] sm:w-[15vw] rounded-full" src={logo} alt="" />
-          <h1 className="text-2xl sm:text-xl  font-black">THE ULTIMATE SONGS</h1>
+          <h1 className="text-2xl sm:text-xl  font-black">THE EVILXD MUSIC</h1>
           </div>
          <div className="sm:flex sm:justify-center">
          <Link className=" text-xl ml-3 sm:font-bold text-blue-900 font-semibold " to={"/playlist"}>
