@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import Navbar from "./Navbar";
 import Cards from "./Cards";
-import logo from "./../../public/logo3.jpg";
+import logo from "./../../public/logo.jpg";
 import axios from "axios";
 import InfiniteScroll from "react-infinite-scroll-component";
 import { Link } from "react-router-dom";
