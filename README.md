@@ -25,7 +25,7 @@ Created a detailed page for playlist , artist , album
  them seamlessly with an integrated song player.
 
  vercel link :
- in side
+ https://evilxdmusic.vercel.app/
 
 
 **THE EVILXD SONGS is not affiliated with JioSaavn. All trademarks and copyrights belong to their respective owners. All media, images, and songs are the property of their respective owners. This site is for educational purposes only.**
