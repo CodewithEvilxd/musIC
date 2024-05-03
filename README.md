@@ -1,8 +1,7 @@
 
-![Screenshot 2024-04-21 161657](https://github.com/patelharsh80874/THE-ULTIMATE-SONGS-WEBAPP/assets/110234600/a3ebe5a5-c50c-48ea-b4de-5531846ffeb9)
 
 
- Project Summary : The Ultimate Songs Webapp
+ Project Summary : The Evilxd Songs Webapp
  Developed a React.js web app with Tailwind CSS and
  Integrated JioSaavn API to fetch and display songs,
  playlists, albums, and artist information.
@@ -26,7 +25,7 @@ Created a detailed page for playlist , artist , album
  them seamlessly with an integrated song player.
 
  vercel link :
- https://the-ultimate-songs-webapp-harsh-patel.vercel.app
+ in side
 
 
-**THE ULTIMATE SONGS is not affiliated with JioSaavn. All trademarks and copyrights belong to their respective owners. All media, images, and songs are the property of their respective owners. This site is for educational purposes only.**
+**THE EVILXD SONGS is not affiliated with JioSaavn. All trademarks and copyrights belong to their respective owners. All media, images, and songs are the property of their respective owners. This site is for educational purposes only.**
